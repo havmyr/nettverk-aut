@@ -5,4 +5,4 @@
 [switches]
 
 [all:vars]
-ansible_python_interpreter=/user/bin/python3
+ansible_python_interpreter=/usr/bin/python3
